@@ -9,7 +9,7 @@ clear; clc;
 % Replace the following values with your own normalized inputs
 % Row 1 = normalized Vs30
 % Row 2 = normalized damping ratio
-% Row 3 = normalized spectral shape factor
+% Row 3 = spectral shape factor
 XTest = [0.4837; 0.7778; 0.0014];
 
 % ---------------------------------
