@@ -18,7 +18,7 @@ The trained models are developed to predict damping modification factors using t
 
 - normalized Vs30
 - normalized damping ratio
-- normalized spectral shape factor
+- spectral shape factor
 
 The output order is:
 
