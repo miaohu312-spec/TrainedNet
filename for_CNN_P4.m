@@ -6,7 +6,7 @@ clear; clc;
 % ---------------------------------
 % Step 1: Prepare one input sample
 % ---------------------------------
-% Replace the following values with your own normalized inputs
+% Replace the following values with your own inputs
 % Row 1 = normalized Vs30
 % Row 2 = normalized damping ratio
 % Row 3 = spectral shape factor
