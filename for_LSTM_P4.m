@@ -6,10 +6,10 @@ clear; clc;
 % ---------------------------------
 % Step 1: Prepare one input sample
 % ---------------------------------
-% Replace the following values with your own normalized inputs
+% Replace the following values with your own  inputs
 % Row 1 = normalized Vs30
 % Row 2 = normalized damping ratio
-% Row 3 = normalized spectral shape factor
+% Row 3 = spectral shape factor
 XTest = [0.4837; 0.7778; 0.0014];
 
 % ---------------------------------
